@@ -1,0 +1,810 @@
+fileFormatVersion: 2
+guid: e4372c26e00106a4ebaf3c5c2bb094db
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Plane001
+    100002: Spot001
+    100004: Spot001.Target
+    100006: //RootNode
+    400000: Plane001
+    400002: Spot001
+    400004: Spot001.Target
+    400006: //RootNode
+    2100000: 20 - Default
+    2100002: 20 - Defaulta
+    2100004: 21 - Default
+    2100006: Leaves
+    2100008: Bark
+    2100010: Leaves.001
+    2100012: Bark.001
+    2100014: Leaves.002
+    2100016: Bark.002
+    2100018: Leaves.003
+    2100020: Bark.003
+    2100022: Leaves.004
+    2100024: Bark.004
+    2100026: Leaves.005
+    2100028: Bark.005
+    2100030: Leaves.006
+    2100032: Bark.006
+    2100034: Leaves.007
+    2100036: Bark.007
+    2100038: Leaves.008
+    2100040: Bark.008
+    2100042: Leaves.009
+    2100044: Bark.009
+    2100046: Leaves.010
+    2100048: Bark.010
+    2100050: Leaves.011
+    2100052: Bark.011
+    2100054: "Materia\u0142"
+    2100056: "Materia\u0142.001"
+    2300000: Plane001
+    3300000: Plane001
+    4300000: Plane001
+    7400000: Plane001|Camera001.Target|Take 001|BaseLayer
+    7400002: Plane001|Camera001|Take 001|BaseLayer
+    7400004: Plane001|City_building_001|Take 001|BaseLayer
+    7400006: Plane001|City_building_004|Take 001|BaseLayer
+    7400008: Plane001|City_building_007|Take 001|BaseLayer
+    7400010: Plane001|City_building_008|Take 001|BaseLayer
+    7400012: Plane001|City_building_010|Take 001|BaseLayer
+    7400014: Plane001|City_building_011|Take 001|BaseLayer
+    7400016: Plane001|City_building_013|Take 001|BaseLayer
+    7400018: Plane001|City_building_014|Take 001|BaseLayer
+    7400020: Plane001|City_building_016|Take 001|BaseLayer
+    7400022: Plane001|City_building_017|Take 001|BaseLayer
+    7400024: Plane001|City_building_022|Take 001|BaseLayer
+    7400026: Plane001|City_building_023|Take 001|BaseLayer
+    7400028: Plane001|City_building_024|Take 001|BaseLayer
+    7400030: Plane001|City_building_026|Take 001|BaseLayer
+    7400032: Plane001|City_building_028|Take 001|BaseLayer
+    7400034: Plane001|City_building_030|Take 001|BaseLayer
+    7400036: Plane001|City_building_031|Take 001|BaseLayer
+    7400038: Plane001|City_building_032|Take 001|BaseLayer
+    7400040: Plane001|City_building_033|Take 001|BaseLayer
+    7400042: Plane001|City_building_034|Take 001|BaseLayer
+    7400044: Plane001|City_building_035|Take 001|BaseLayer
+    7400046: Plane001|City_building_036|Take 001|BaseLayer
+    7400048: Plane001|City_building_037|Take 001|BaseLayer
+    7400050: Plane001|City_building_038|Take 001|BaseLayer
+    7400052: Plane001|City_building_039|Take 001|BaseLayer
+    7400054: Plane001|City_building_040|Take 001|BaseLayer
+    7400056: Plane001|City_building_041|Take 001|BaseLayer
+    7400058: Plane001|Dummy001|Take 001|BaseLayer
+    7400060: Plane001|Line002.001|Line002|Camera001.Target|Take 001|BaseLayer|Line002
+    7400062: Plane001|Line002.001|Line002|Camera001|Take 001|BaseLayer|Line002|Camera
+    7400064: Plane001|Line002.001|Line002|City_building_001|Take 001|BaseLayer|Line00
+    7400066: Plane001|Line002.001|Line002|City_building_004|Take 001|BaseLayer|Line00
+    7400068: Plane001|Line002.001|Line002|City_building_007|Take 001|BaseLayer|Line00
+    7400070: Plane001|Line002.001|Line002|City_building_008|Take 001|BaseLayer|Line00
+    7400072: Plane001|Line002.001|Line002|City_building_010|Take 001|BaseLayer|Line00
+    7400074: Plane001|Line002.001|Line002|City_building_011|Take 001|BaseLayer|Line00
+    7400076: Plane001|Line002.001|Line002|City_building_013|Take 001|BaseLayer|Line00
+    7400078: Plane001|Line002.001|Line002|City_building_014|Take 001|BaseLayer|Line00
+    7400080: Plane001|Line002.001|Line002|City_building_016|Take 001|BaseLayer|Line00
+    7400082: Plane001|Line002.001|Line002|City_building_017|Take 001|BaseLayer|Line00
+    7400084: Plane001|Line002.001|Line002|City_building_022|Take 001|BaseLayer|Line00
+    7400086: Plane001|Line002.001|Line002|City_building_023|Take 001|BaseLayer|Line00
+    7400088: Plane001|Line002.001|Line002|City_building_024|Take 001|BaseLayer|Line00
+    7400090: Plane001|Line002.001|Line002|City_building_026|Take 001|BaseLayer|Line00
+    7400092: Plane001|Line002.001|Line002|City_building_028|Take 001|BaseLayer|Line00
+    7400094: Plane001|Line002.001|Line002|City_building_030|Take 001|BaseLayer|Line00
+    7400096: Plane001|Line002.001|Line002|City_building_031|Take 001|BaseLayer|Line00
+    7400098: Plane001|Line002.001|Line002|City_building_032|Take 001|BaseLayer|Line00
+    7400100: Plane001|Line002.001|Line002|City_building_033|Take 001|BaseLayer|Line00
+    7400102: Plane001|Line002.001|Line002|City_building_034|Take 001|BaseLayer|Line00
+    7400104: Plane001|Line002.001|Line002|City_building_035|Take 001|BaseLayer|Line00
+    7400106: Plane001|Line002.001|Line002|City_building_036|Take 001|BaseLayer|Line00
+    7400108: Plane001|Line002.001|Line002|City_building_037|Take 001|BaseLayer|Line00
+    7400110: Plane001|Line002.001|Line002|City_building_038|Take 001|BaseLayer|Line00
+    7400112: Plane001|Line002.001|Line002|City_building_039|Take 001|BaseLayer|Line00
+    7400114: Plane001|Line002.001|Line002|City_building_040|Take 001|BaseLayer|Line00
+    7400116: Plane001|Line002.001|Line002|City_building_041|Take 001|BaseLayer|Line00
+    7400118: Plane001|Line002.001|Line002|Dummy001|Take 001|BaseLayer|Line002|Dummy00
+    7400120: Plane001|Line002.001|Line002|Line002|Take 001|BaseLayer|Line002|Line002|
+    7400122: Plane001|Line002.001|Line002|Object010|Take 001|BaseLayer|Line002|Object
+    7400124: Plane001|Line002.001|Line002|Plane001|Take 001|BaseLayer|Line002|Plane00
+    7400126: Plane001|Line002.001|Line002|Sky001|Take 001|BaseLayer|Line002|Sky001|Ta
+    7400128: Plane001|Line002.001|Line002|Spot001.Target|Take 001|BaseLayer|Line002|S
+    7400130: Plane001|Line002.001|Line002|Spot001|Take 001|BaseLayer|Line002|Spot001|
+    7400132: Plane001|Line002|Take 001|BaseLayer
+    7400134: Plane001|Object010.001|Object010|Camera001.Target|Take 001|BaseLayer|Obj
+    7400136: Plane001|Object010.001|Object010|Camera001|Take 001|BaseLayer|Object010|
+    7400138: Plane001|Object010.001|Object010|City_building_001|Take 001|BaseLayer|Ob
+    7400140: Plane001|Object010.001|Object010|City_building_004|Take 001|BaseLayer|Ob
+    7400142: Plane001|Object010.001|Object010|City_building_007|Take 001|BaseLayer|Ob
+    7400144: Plane001|Object010.001|Object010|City_building_008|Take 001|BaseLayer|Ob
+    7400146: Plane001|Object010.001|Object010|City_building_010|Take 001|BaseLayer|Ob
+    7400148: Plane001|Object010.001|Object010|City_building_011|Take 001|BaseLayer|Ob
+    7400150: Plane001|Object010.001|Object010|City_building_013|Take 001|BaseLayer|Ob
+    7400152: Plane001|Object010.001|Object010|City_building_014|Take 001|BaseLayer|Ob
+    7400154: Plane001|Object010.001|Object010|City_building_016|Take 001|BaseLayer|Ob
+    7400156: Plane001|Object010.001|Object010|City_building_017|Take 001|BaseLayer|Ob
+    7400158: Plane001|Object010.001|Object010|City_building_022|Take 001|BaseLayer|Ob
+    7400160: Plane001|Object010.001|Object010|City_building_023|Take 001|BaseLayer|Ob
+    7400162: Plane001|Object010.001|Object010|City_building_024|Take 001|BaseLayer|Ob
+    7400164: Plane001|Object010.001|Object010|City_building_026|Take 001|BaseLayer|Ob
+    7400166: Plane001|Object010.001|Object010|City_building_028|Take 001|BaseLayer|Ob
+    7400168: Plane001|Object010.001|Object010|City_building_030|Take 001|BaseLayer|Ob
+    7400170: Plane001|Object010.001|Object010|City_building_031|Take 001|BaseLayer|Ob
+    7400172: Plane001|Object010.001|Object010|City_building_032|Take 001|BaseLayer|Ob
+    7400174: Plane001|Object010.001|Object010|City_building_033|Take 001|BaseLayer|Ob
+    7400176: Plane001|Object010.001|Object010|City_building_034|Take 001|BaseLayer|Ob
+    7400178: Plane001|Object010.001|Object010|City_building_035|Take 001|BaseLayer|Ob
+    7400180: Plane001|Object010.001|Object010|City_building_036|Take 001|BaseLayer|Ob
+    7400182: Plane001|Object010.001|Object010|City_building_037|Take 001|BaseLayer|Ob
+    7400184: Plane001|Object010.001|Object010|City_building_038|Take 001|BaseLayer|Ob
+    7400186: Plane001|Object010.001|Object010|City_building_039|Take 001|BaseLayer|Ob
+    7400188: Plane001|Object010.001|Object010|City_building_040|Take 001|BaseLayer|Ob
+    7400190: Plane001|Object010.001|Object010|City_building_041|Take 001|BaseLayer|Ob
+    7400192: Plane001|Object010.001|Object010|Dummy001|Take 001|BaseLayer|Object010|D
+    7400194: Plane001|Object010.001|Object010|Line002|Take 001|BaseLayer|Object010|Li
+    7400196: Plane001|Object010.001|Object010|Object010|Take 001|BaseLayer|Object010|
+    7400198: Plane001|Object010.001|Object010|Plane001|Take 001|BaseLayer|Object010|P
+    7400200: Plane001|Object010.001|Object010|Sky001|Take 001|BaseLayer|Object010|Sky
+    7400202: Plane001|Object010.001|Object010|Spot001.Target|Take 001|BaseLayer|Objec
+    7400204: Plane001|Object010.001|Object010|Spot001|Take 001|BaseLayer|Object010|Sp
+    7400206: Plane001|Object010|Take 001|BaseLayer
+    7400208: Plane001|Plane001.001|Plane001|Camera001.Target|Take 001|BaseLayer|Plane
+    7400210: Plane001|Plane001.001|Plane001|Camera001|Take 001|BaseLayer|Plane001|Cam
+    7400212: Plane001|Plane001.001|Plane001|City_building_001|Take 001|BaseLayer|Plan
+    7400214: Plane001|Plane001.001|Plane001|City_building_004|Take 001|BaseLayer|Plan
+    7400216: Plane001|Plane001.001|Plane001|City_building_007|Take 001|BaseLayer|Plan
+    7400218: Plane001|Plane001.001|Plane001|City_building_008|Take 001|BaseLayer|Plan
+    7400220: Plane001|Plane001.001|Plane001|City_building_010|Take 001|BaseLayer|Plan
+    7400222: Plane001|Plane001.001|Plane001|City_building_011|Take 001|BaseLayer|Plan
+    7400224: Plane001|Plane001.001|Plane001|City_building_013|Take 001|BaseLayer|Plan
+    7400226: Plane001|Plane001.001|Plane001|City_building_014|Take 001|BaseLayer|Plan
+    7400228: Plane001|Plane001.001|Plane001|City_building_016|Take 001|BaseLayer|Plan
+    7400230: Plane001|Plane001.001|Plane001|City_building_017|Take 001|BaseLayer|Plan
+    7400232: Plane001|Plane001.001|Plane001|City_building_022|Take 001|BaseLayer|Plan
+    7400234: Plane001|Plane001.001|Plane001|City_building_023|Take 001|BaseLayer|Plan
+    7400236: Plane001|Plane001.001|Plane001|City_building_024|Take 001|BaseLayer|Plan
+    7400238: Plane001|Plane001.001|Plane001|City_building_026|Take 001|BaseLayer|Plan
+    7400240: Plane001|Plane001.001|Plane001|City_building_028|Take 001|BaseLayer|Plan
+    7400242: Plane001|Plane001.001|Plane001|City_building_030|Take 001|BaseLayer|Plan
+    7400244: Plane001|Plane001.001|Plane001|City_building_031|Take 001|BaseLayer|Plan
+    7400246: Plane001|Plane001.001|Plane001|City_building_032|Take 001|BaseLayer|Plan
+    7400248: Plane001|Plane001.001|Plane001|City_building_033|Take 001|BaseLayer|Plan
+    7400250: Plane001|Plane001.001|Plane001|City_building_034|Take 001|BaseLayer|Plan
+    7400252: Plane001|Plane001.001|Plane001|City_building_035|Take 001|BaseLayer|Plan
+    7400254: Plane001|Plane001.001|Plane001|City_building_036|Take 001|BaseLayer|Plan
+    7400256: Plane001|Plane001.001|Plane001|City_building_037|Take 001|BaseLayer|Plan
+    7400258: Plane001|Plane001.001|Plane001|City_building_038|Take 001|BaseLayer|Plan
+    7400260: Plane001|Plane001.001|Plane001|City_building_039|Take 001|BaseLayer|Plan
+    7400262: Plane001|Plane001.001|Plane001|City_building_040|Take 001|BaseLayer|Plan
+    7400264: Plane001|Plane001.001|Plane001|City_building_041|Take 001|BaseLayer|Plan
+    7400266: Plane001|Plane001.001|Plane001|Dummy001|Take 001|BaseLayer|Plane001|Dumm
+    7400268: Plane001|Plane001.001|Plane001|Line002|Take 001|BaseLayer|Plane001|Line0
+    7400270: Plane001|Plane001.001|Plane001|Object010|Take 001|BaseLayer|Plane001|Obj
+    7400272: Plane001|Plane001.001|Plane001|Plane001|Take 001|BaseLayer|Plane001|Plan
+    7400274: Plane001|Plane001.001|Plane001|Sky001|Take 001|BaseLayer|Plane001|Sky001
+    7400276: Plane001|Plane001.001|Plane001|Spot001.Target|Take 001|BaseLayer|Plane00
+    7400278: Plane001|Plane001.001|Plane001|Spot001|Take 001|BaseLayer|Plane001|Spot0
+    7400280: Plane001|Plane001|Take 001|BaseLayer
+    7400282: Plane001|Sky001|Take 001|BaseLayer
+    7400284: Plane001|Spot001.001|Spot001|Camera001.Target|Take 001|BaseLayer|Spot001
+    7400286: Plane001|Spot001.001|Spot001|Camera001|Take 001|BaseLayer|Spot001|Camera
+    7400288: Plane001|Spot001.001|Spot001|City_building_001|Take 001|BaseLayer|Spot00
+    7400290: Plane001|Spot001.001|Spot001|City_building_004|Take 001|BaseLayer|Spot00
+    7400292: Plane001|Spot001.001|Spot001|City_building_007|Take 001|BaseLayer|Spot00
+    7400294: Plane001|Spot001.001|Spot001|City_building_008|Take 001|BaseLayer|Spot00
+    7400296: Plane001|Spot001.001|Spot001|City_building_010|Take 001|BaseLayer|Spot00
+    7400298: Plane001|Spot001.001|Spot001|City_building_011|Take 001|BaseLayer|Spot00
+    7400300: Plane001|Spot001.001|Spot001|City_building_013|Take 001|BaseLayer|Spot00
+    7400302: Plane001|Spot001.001|Spot001|City_building_014|Take 001|BaseLayer|Spot00
+    7400304: Plane001|Spot001.001|Spot001|City_building_016|Take 001|BaseLayer|Spot00
+    7400306: Plane001|Spot001.001|Spot001|City_building_017|Take 001|BaseLayer|Spot00
+    7400308: Plane001|Spot001.001|Spot001|City_building_022|Take 001|BaseLayer|Spot00
+    7400310: Plane001|Spot001.001|Spot001|City_building_023|Take 001|BaseLayer|Spot00
+    7400312: Plane001|Spot001.001|Spot001|City_building_024|Take 001|BaseLayer|Spot00
+    7400314: Plane001|Spot001.001|Spot001|City_building_026|Take 001|BaseLayer|Spot00
+    7400316: Plane001|Spot001.001|Spot001|City_building_028|Take 001|BaseLayer|Spot00
+    7400318: Plane001|Spot001.001|Spot001|City_building_030|Take 001|BaseLayer|Spot00
+    7400320: Plane001|Spot001.001|Spot001|City_building_031|Take 001|BaseLayer|Spot00
+    7400322: Plane001|Spot001.001|Spot001|City_building_032|Take 001|BaseLayer|Spot00
+    7400324: Plane001|Spot001.001|Spot001|City_building_033|Take 001|BaseLayer|Spot00
+    7400326: Plane001|Spot001.001|Spot001|City_building_034|Take 001|BaseLayer|Spot00
+    7400328: Plane001|Spot001.001|Spot001|City_building_035|Take 001|BaseLayer|Spot00
+    7400330: Plane001|Spot001.001|Spot001|City_building_036|Take 001|BaseLayer|Spot00
+    7400332: Plane001|Spot001.001|Spot001|City_building_037|Take 001|BaseLayer|Spot00
+    7400334: Plane001|Spot001.001|Spot001|City_building_038|Take 001|BaseLayer|Spot00
+    7400336: Plane001|Spot001.001|Spot001|City_building_039|Take 001|BaseLayer|Spot00
+    7400338: Plane001|Spot001.001|Spot001|City_building_040|Take 001|BaseLayer|Spot00
+    7400340: Plane001|Spot001.001|Spot001|City_building_041|Take 001|BaseLayer|Spot00
+    7400342: Plane001|Spot001.001|Spot001|Dummy001|Take 001|BaseLayer|Spot001|Dummy00
+    7400344: Plane001|Spot001.001|Spot001|Line002|Take 001|BaseLayer|Spot001|Line002|
+    7400346: Plane001|Spot001.001|Spot001|Object010|Take 001|BaseLayer|Spot001|Object
+    7400348: Plane001|Spot001.001|Spot001|Plane001|Take 001|BaseLayer|Spot001|Plane00
+    7400350: Plane001|Spot001.001|Spot001|Sky001|Take 001|BaseLayer|Spot001|Sky001|Ta
+    7400352: Plane001|Spot001.001|Spot001|Spot001.Target|Take 001|BaseLayer|Spot001|S
+    7400354: Plane001|Spot001.001|Spot001|Spot001|Take 001|BaseLayer|Spot001|Spot001|
+    7400356: Plane001|Spot001.Target.001|Spot001.Target|Camera001.Target|Take 001|Bas
+    7400358: Plane001|Spot001.Target.001|Spot001.Target|Camera001|Take 001|BaseLayer|
+    7400360: Plane001|Spot001.Target.001|Spot001.Target|City_building_001|Take 001|Ba
+    7400362: Plane001|Spot001.Target.001|Spot001.Target|City_building_004|Take 001|Ba
+    7400364: Plane001|Spot001.Target.001|Spot001.Target|City_building_007|Take 001|Ba
+    7400366: Plane001|Spot001.Target.001|Spot001.Target|City_building_008|Take 001|Ba
+    7400368: Plane001|Spot001.Target.001|Spot001.Target|City_building_010|Take 001|Ba
+    7400370: Plane001|Spot001.Target.001|Spot001.Target|City_building_011|Take 001|Ba
+    7400372: Plane001|Spot001.Target.001|Spot001.Target|City_building_013|Take 001|Ba
+    7400374: Plane001|Spot001.Target.001|Spot001.Target|City_building_014|Take 001|Ba
+    7400376: Plane001|Spot001.Target.001|Spot001.Target|City_building_016|Take 001|Ba
+    7400378: Plane001|Spot001.Target.001|Spot001.Target|City_building_017|Take 001|Ba
+    7400380: Plane001|Spot001.Target.001|Spot001.Target|City_building_022|Take 001|Ba
+    7400382: Plane001|Spot001.Target.001|Spot001.Target|City_building_023|Take 001|Ba
+    7400384: Plane001|Spot001.Target.001|Spot001.Target|City_building_024|Take 001|Ba
+    7400386: Plane001|Spot001.Target.001|Spot001.Target|City_building_026|Take 001|Ba
+    7400388: Plane001|Spot001.Target.001|Spot001.Target|City_building_028|Take 001|Ba
+    7400390: Plane001|Spot001.Target.001|Spot001.Target|City_building_030|Take 001|Ba
+    7400392: Plane001|Spot001.Target.001|Spot001.Target|City_building_031|Take 001|Ba
+    7400394: Plane001|Spot001.Target.001|Spot001.Target|City_building_032|Take 001|Ba
+    7400396: Plane001|Spot001.Target.001|Spot001.Target|City_building_033|Take 001|Ba
+    7400398: Plane001|Spot001.Target.001|Spot001.Target|City_building_034|Take 001|Ba
+    7400400: Plane001|Spot001.Target.001|Spot001.Target|City_building_035|Take 001|Ba
+    7400402: Plane001|Spot001.Target.001|Spot001.Target|City_building_036|Take 001|Ba
+    7400404: Plane001|Spot001.Target.001|Spot001.Target|City_building_037|Take 001|Ba
+    7400406: Plane001|Spot001.Target.001|Spot001.Target|City_building_038|Take 001|Ba
+    7400408: Plane001|Spot001.Target.001|Spot001.Target|City_building_039|Take 001|Ba
+    7400410: Plane001|Spot001.Target.001|Spot001.Target|City_building_040|Take 001|Ba
+    7400412: Plane001|Spot001.Target.001|Spot001.Target|City_building_041|Take 001|Ba
+    7400414: Plane001|Spot001.Target.001|Spot001.Target|Dummy001|Take 001|BaseLayer|S
+    7400416: Plane001|Spot001.Target.001|Spot001.Target|Line002|Take 001|BaseLayer|Sp
+    7400418: Plane001|Spot001.Target.001|Spot001.Target|Object010|Take 001|BaseLayer|
+    7400420: Plane001|Spot001.Target.001|Spot001.Target|Plane001|Take 001|BaseLayer|S
+    7400422: Plane001|Spot001.Target.001|Spot001.Target|Sky001|Take 001|BaseLayer|Spo
+    7400424: Plane001|Spot001.Target.001|Spot001.Target|Spot001.Target|Take 001|BaseL
+    7400426: Plane001|Spot001.Target.001|Spot001.Target|Spot001|Take 001|BaseLayer|Sp
+    7400428: Plane001|Spot001.Target|Take 001|BaseLayer
+    7400430: Plane001|Spot001|Take 001|BaseLayer
+    7400432: Spot001|Camera001.Target|Take 001|BaseLayer
+    7400434: Spot001|Camera001|Take 001|BaseLayer
+    7400436: Spot001|City_building_001|Take 001|BaseLayer
+    7400438: Spot001|City_building_004|Take 001|BaseLayer
+    7400440: Spot001|City_building_007|Take 001|BaseLayer
+    7400442: Spot001|City_building_008|Take 001|BaseLayer
+    7400444: Spot001|City_building_010|Take 001|BaseLayer
+    7400446: Spot001|City_building_011|Take 001|BaseLayer
+    7400448: Spot001|City_building_013|Take 001|BaseLayer
+    7400450: Spot001|City_building_014|Take 001|BaseLayer
+    7400452: Spot001|City_building_016|Take 001|BaseLayer
+    7400454: Spot001|City_building_017|Take 001|BaseLayer
+    7400456: Spot001|City_building_022|Take 001|BaseLayer
+    7400458: Spot001|City_building_023|Take 001|BaseLayer
+    7400460: Spot001|City_building_024|Take 001|BaseLayer
+    7400462: Spot001|City_building_026|Take 001|BaseLayer
+    7400464: Spot001|City_building_028|Take 001|BaseLayer
+    7400466: Spot001|City_building_030|Take 001|BaseLayer
+    7400468: Spot001|City_building_031|Take 001|BaseLayer
+    7400470: Spot001|City_building_032|Take 001|BaseLayer
+    7400472: Spot001|City_building_033|Take 001|BaseLayer
+    7400474: Spot001|City_building_034|Take 001|BaseLayer
+    7400476: Spot001|City_building_035|Take 001|BaseLayer
+    7400478: Spot001|City_building_036|Take 001|BaseLayer
+    7400480: Spot001|City_building_037|Take 001|BaseLayer
+    7400482: Spot001|City_building_038|Take 001|BaseLayer
+    7400484: Spot001|City_building_039|Take 001|BaseLayer
+    7400486: Spot001|City_building_040|Take 001|BaseLayer
+    7400488: Spot001|City_building_041|Take 001|BaseLayer
+    7400490: Spot001|Dummy001|Take 001|BaseLayer
+    7400492: Spot001|Line002.001|Line002|Camera001.Target|Take 001|BaseLayer|Line002
+    7400494: Spot001|Line002.001|Line002|Camera001|Take 001|BaseLayer|Line002|Camera
+    7400496: Spot001|Line002.001|Line002|City_building_001|Take 001|BaseLayer|Line00
+    7400498: Spot001|Line002.001|Line002|City_building_004|Take 001|BaseLayer|Line00
+    7400500: Spot001|Line002.001|Line002|City_building_007|Take 001|BaseLayer|Line00
+    7400502: Spot001|Line002.001|Line002|City_building_008|Take 001|BaseLayer|Line00
+    7400504: Spot001|Line002.001|Line002|City_building_010|Take 001|BaseLayer|Line00
+    7400506: Spot001|Line002.001|Line002|City_building_011|Take 001|BaseLayer|Line00
+    7400508: Spot001|Line002.001|Line002|City_building_013|Take 001|BaseLayer|Line00
+    7400510: Spot001|Line002.001|Line002|City_building_014|Take 001|BaseLayer|Line00
+    7400512: Spot001|Line002.001|Line002|City_building_016|Take 001|BaseLayer|Line00
+    7400514: Spot001|Line002.001|Line002|City_building_017|Take 001|BaseLayer|Line00
+    7400516: Spot001|Line002.001|Line002|City_building_022|Take 001|BaseLayer|Line00
+    7400518: Spot001|Line002.001|Line002|City_building_023|Take 001|BaseLayer|Line00
+    7400520: Spot001|Line002.001|Line002|City_building_024|Take 001|BaseLayer|Line00
+    7400522: Spot001|Line002.001|Line002|City_building_026|Take 001|BaseLayer|Line00
+    7400524: Spot001|Line002.001|Line002|City_building_028|Take 001|BaseLayer|Line00
+    7400526: Spot001|Line002.001|Line002|City_building_030|Take 001|BaseLayer|Line00
+    7400528: Spot001|Line002.001|Line002|City_building_031|Take 001|BaseLayer|Line00
+    7400530: Spot001|Line002.001|Line002|City_building_032|Take 001|BaseLayer|Line00
+    7400532: Spot001|Line002.001|Line002|City_building_033|Take 001|BaseLayer|Line00
+    7400534: Spot001|Line002.001|Line002|City_building_034|Take 001|BaseLayer|Line00
+    7400536: Spot001|Line002.001|Line002|City_building_035|Take 001|BaseLayer|Line00
+    7400538: Spot001|Line002.001|Line002|City_building_036|Take 001|BaseLayer|Line00
+    7400540: Spot001|Line002.001|Line002|City_building_037|Take 001|BaseLayer|Line00
+    7400542: Spot001|Line002.001|Line002|City_building_038|Take 001|BaseLayer|Line00
+    7400544: Spot001|Line002.001|Line002|City_building_039|Take 001|BaseLayer|Line00
+    7400546: Spot001|Line002.001|Line002|City_building_040|Take 001|BaseLayer|Line00
+    7400548: Spot001|Line002.001|Line002|City_building_041|Take 001|BaseLayer|Line00
+    7400550: Spot001|Line002.001|Line002|Dummy001|Take 001|BaseLayer|Line002|Dummy00
+    7400552: Spot001|Line002.001|Line002|Line002|Take 001|BaseLayer|Line002|Line002|
+    7400554: Spot001|Line002.001|Line002|Object010|Take 001|BaseLayer|Line002|Object
+    7400556: Spot001|Line002.001|Line002|Plane001|Take 001|BaseLayer|Line002|Plane00
+    7400558: Spot001|Line002.001|Line002|Sky001|Take 001|BaseLayer|Line002|Sky001|Ta
+    7400560: Spot001|Line002.001|Line002|Spot001.Target|Take 001|BaseLayer|Line002|S
+    7400562: Spot001|Line002.001|Line002|Spot001|Take 001|BaseLayer|Line002|Spot001|
+    7400564: Spot001|Line002|Take 001|BaseLayer
+    7400566: Spot001|Object010.001|Object010|Camera001.Target|Take 001|BaseLayer|Obj
+    7400568: Spot001|Object010.001|Object010|Camera001|Take 001|BaseLayer|Object010|
+    7400570: Spot001|Object010.001|Object010|City_building_001|Take 001|BaseLayer|Ob
+    7400572: Spot001|Object010.001|Object010|City_building_004|Take 001|BaseLayer|Ob
+    7400574: Spot001|Object010.001|Object010|City_building_007|Take 001|BaseLayer|Ob
+    7400576: Spot001|Object010.001|Object010|City_building_008|Take 001|BaseLayer|Ob
+    7400578: Spot001|Object010.001|Object010|City_building_010|Take 001|BaseLayer|Ob
+    7400580: Spot001|Object010.001|Object010|City_building_011|Take 001|BaseLayer|Ob
+    7400582: Spot001|Object010.001|Object010|City_building_013|Take 001|BaseLayer|Ob
+    7400584: Spot001|Object010.001|Object010|City_building_014|Take 001|BaseLayer|Ob
+    7400586: Spot001|Object010.001|Object010|City_building_016|Take 001|BaseLayer|Ob
+    7400588: Spot001|Object010.001|Object010|City_building_017|Take 001|BaseLayer|Ob
+    7400590: Spot001|Object010.001|Object010|City_building_022|Take 001|BaseLayer|Ob
+    7400592: Spot001|Object010.001|Object010|City_building_023|Take 001|BaseLayer|Ob
+    7400594: Spot001|Object010.001|Object010|City_building_024|Take 001|BaseLayer|Ob
+    7400596: Spot001|Object010.001|Object010|City_building_026|Take 001|BaseLayer|Ob
+    7400598: Spot001|Object010.001|Object010|City_building_028|Take 001|BaseLayer|Ob
+    7400600: Spot001|Object010.001|Object010|City_building_030|Take 001|BaseLayer|Ob
+    7400602: Spot001|Object010.001|Object010|City_building_031|Take 001|BaseLayer|Ob
+    7400604: Spot001|Object010.001|Object010|City_building_032|Take 001|BaseLayer|Ob
+    7400606: Spot001|Object010.001|Object010|City_building_033|Take 001|BaseLayer|Ob
+    7400608: Spot001|Object010.001|Object010|City_building_034|Take 001|BaseLayer|Ob
+    7400610: Spot001|Object010.001|Object010|City_building_035|Take 001|BaseLayer|Ob
+    7400612: Spot001|Object010.001|Object010|City_building_036|Take 001|BaseLayer|Ob
+    7400614: Spot001|Object010.001|Object010|City_building_037|Take 001|BaseLayer|Ob
+    7400616: Spot001|Object010.001|Object010|City_building_038|Take 001|BaseLayer|Ob
+    7400618: Spot001|Object010.001|Object010|City_building_039|Take 001|BaseLayer|Ob
+    7400620: Spot001|Object010.001|Object010|City_building_040|Take 001|BaseLayer|Ob
+    7400622: Spot001|Object010.001|Object010|City_building_041|Take 001|BaseLayer|Ob
+    7400624: Spot001|Object010.001|Object010|Dummy001|Take 001|BaseLayer|Object010|D
+    7400626: Spot001|Object010.001|Object010|Line002|Take 001|BaseLayer|Object010|Li
+    7400628: Spot001|Object010.001|Object010|Object010|Take 001|BaseLayer|Object010|
+    7400630: Spot001|Object010.001|Object010|Plane001|Take 001|BaseLayer|Object010|P
+    7400632: Spot001|Object010.001|Object010|Sky001|Take 001|BaseLayer|Object010|Sky
+    7400634: Spot001|Object010.001|Object010|Spot001.Target|Take 001|BaseLayer|Objec
+    7400636: Spot001|Object010.001|Object010|Spot001|Take 001|BaseLayer|Object010|Sp
+    7400638: Spot001|Object010|Take 001|BaseLayer
+    7400640: Spot001|Plane001.001|Plane001|Camera001.Target|Take 001|BaseLayer|Plane
+    7400642: Spot001|Plane001.001|Plane001|Camera001|Take 001|BaseLayer|Plane001|Cam
+    7400644: Spot001|Plane001.001|Plane001|City_building_001|Take 001|BaseLayer|Plan
+    7400646: Spot001|Plane001.001|Plane001|City_building_004|Take 001|BaseLayer|Plan
+    7400648: Spot001|Plane001.001|Plane001|City_building_007|Take 001|BaseLayer|Plan
+    7400650: Spot001|Plane001.001|Plane001|City_building_008|Take 001|BaseLayer|Plan
+    7400652: Spot001|Plane001.001|Plane001|City_building_010|Take 001|BaseLayer|Plan
+    7400654: Spot001|Plane001.001|Plane001|City_building_011|Take 001|BaseLayer|Plan
+    7400656: Spot001|Plane001.001|Plane001|City_building_013|Take 001|BaseLayer|Plan
+    7400658: Spot001|Plane001.001|Plane001|City_building_014|Take 001|BaseLayer|Plan
+    7400660: Spot001|Plane001.001|Plane001|City_building_016|Take 001|BaseLayer|Plan
+    7400662: Spot001|Plane001.001|Plane001|City_building_017|Take 001|BaseLayer|Plan
+    7400664: Spot001|Plane001.001|Plane001|City_building_022|Take 001|BaseLayer|Plan
+    7400666: Spot001|Plane001.001|Plane001|City_building_023|Take 001|BaseLayer|Plan
+    7400668: Spot001|Plane001.001|Plane001|City_building_024|Take 001|BaseLayer|Plan
+    7400670: Spot001|Plane001.001|Plane001|City_building_026|Take 001|BaseLayer|Plan
+    7400672: Spot001|Plane001.001|Plane001|City_building_028|Take 001|BaseLayer|Plan
+    7400674: Spot001|Plane001.001|Plane001|City_building_030|Take 001|BaseLayer|Plan
+    7400676: Spot001|Plane001.001|Plane001|City_building_031|Take 001|BaseLayer|Plan
+    7400678: Spot001|Plane001.001|Plane001|City_building_032|Take 001|BaseLayer|Plan
+    7400680: Spot001|Plane001.001|Plane001|City_building_033|Take 001|BaseLayer|Plan
+    7400682: Spot001|Plane001.001|Plane001|City_building_034|Take 001|BaseLayer|Plan
+    7400684: Spot001|Plane001.001|Plane001|City_building_035|Take 001|BaseLayer|Plan
+    7400686: Spot001|Plane001.001|Plane001|City_building_036|Take 001|BaseLayer|Plan
+    7400688: Spot001|Plane001.001|Plane001|City_building_037|Take 001|BaseLayer|Plan
+    7400690: Spot001|Plane001.001|Plane001|City_building_038|Take 001|BaseLayer|Plan
+    7400692: Spot001|Plane001.001|Plane001|City_building_039|Take 001|BaseLayer|Plan
+    7400694: Spot001|Plane001.001|Plane001|City_building_040|Take 001|BaseLayer|Plan
+    7400696: Spot001|Plane001.001|Plane001|City_building_041|Take 001|BaseLayer|Plan
+    7400698: Spot001|Plane001.001|Plane001|Dummy001|Take 001|BaseLayer|Plane001|Dumm
+    7400700: Spot001|Plane001.001|Plane001|Line002|Take 001|BaseLayer|Plane001|Line0
+    7400702: Spot001|Plane001.001|Plane001|Object010|Take 001|BaseLayer|Plane001|Obj
+    7400704: Spot001|Plane001.001|Plane001|Plane001|Take 001|BaseLayer|Plane001|Plan
+    7400706: Spot001|Plane001.001|Plane001|Sky001|Take 001|BaseLayer|Plane001|Sky001
+    7400708: Spot001|Plane001.001|Plane001|Spot001.Target|Take 001|BaseLayer|Plane00
+    7400710: Spot001|Plane001.001|Plane001|Spot001|Take 001|BaseLayer|Plane001|Spot0
+    7400712: Spot001|Plane001|Take 001|BaseLayer
+    7400714: Spot001|Sky001|Take 001|BaseLayer
+    7400716: Spot001|Spot001.001|Spot001|Camera001.Target|Take 001|BaseLayer|Spot001
+    7400718: Spot001|Spot001.001|Spot001|Camera001|Take 001|BaseLayer|Spot001|Camera
+    7400720: Spot001|Spot001.001|Spot001|City_building_001|Take 001|BaseLayer|Spot00
+    7400722: Spot001|Spot001.001|Spot001|City_building_004|Take 001|BaseLayer|Spot00
+    7400724: Spot001|Spot001.001|Spot001|City_building_007|Take 001|BaseLayer|Spot00
+    7400726: Spot001|Spot001.001|Spot001|City_building_008|Take 001|BaseLayer|Spot00
+    7400728: Spot001|Spot001.001|Spot001|City_building_010|Take 001|BaseLayer|Spot00
+    7400730: Spot001|Spot001.001|Spot001|City_building_011|Take 001|BaseLayer|Spot00
+    7400732: Spot001|Spot001.001|Spot001|City_building_013|Take 001|BaseLayer|Spot00
+    7400734: Spot001|Spot001.001|Spot001|City_building_014|Take 001|BaseLayer|Spot00
+    7400736: Spot001|Spot001.001|Spot001|City_building_016|Take 001|BaseLayer|Spot00
+    7400738: Spot001|Spot001.001|Spot001|City_building_017|Take 001|BaseLayer|Spot00
+    7400740: Spot001|Spot001.001|Spot001|City_building_022|Take 001|BaseLayer|Spot00
+    7400742: Spot001|Spot001.001|Spot001|City_building_023|Take 001|BaseLayer|Spot00
+    7400744: Spot001|Spot001.001|Spot001|City_building_024|Take 001|BaseLayer|Spot00
+    7400746: Spot001|Spot001.001|Spot001|City_building_026|Take 001|BaseLayer|Spot00
+    7400748: Spot001|Spot001.001|Spot001|City_building_028|Take 001|BaseLayer|Spot00
+    7400750: Spot001|Spot001.001|Spot001|City_building_030|Take 001|BaseLayer|Spot00
+    7400752: Spot001|Spot001.001|Spot001|City_building_031|Take 001|BaseLayer|Spot00
+    7400754: Spot001|Spot001.001|Spot001|City_building_032|Take 001|BaseLayer|Spot00
+    7400756: Spot001|Spot001.001|Spot001|City_building_033|Take 001|BaseLayer|Spot00
+    7400758: Spot001|Spot001.001|Spot001|City_building_034|Take 001|BaseLayer|Spot00
+    7400760: Spot001|Spot001.001|Spot001|City_building_035|Take 001|BaseLayer|Spot00
+    7400762: Spot001|Spot001.001|Spot001|City_building_036|Take 001|BaseLayer|Spot00
+    7400764: Spot001|Spot001.001|Spot001|City_building_037|Take 001|BaseLayer|Spot00
+    7400766: Spot001|Spot001.001|Spot001|City_building_038|Take 001|BaseLayer|Spot00
+    7400768: Spot001|Spot001.001|Spot001|City_building_039|Take 001|BaseLayer|Spot00
+    7400770: Spot001|Spot001.001|Spot001|City_building_040|Take 001|BaseLayer|Spot00
+    7400772: Spot001|Spot001.001|Spot001|City_building_041|Take 001|BaseLayer|Spot00
+    7400774: Spot001|Spot001.001|Spot001|Dummy001|Take 001|BaseLayer|Spot001|Dummy00
+    7400776: Spot001|Spot001.001|Spot001|Line002|Take 001|BaseLayer|Spot001|Line002|
+    7400778: Spot001|Spot001.001|Spot001|Object010|Take 001|BaseLayer|Spot001|Object
+    7400780: Spot001|Spot001.001|Spot001|Plane001|Take 001|BaseLayer|Spot001|Plane00
+    7400782: Spot001|Spot001.001|Spot001|Sky001|Take 001|BaseLayer|Spot001|Sky001|Ta
+    7400784: Spot001|Spot001.001|Spot001|Spot001.Target|Take 001|BaseLayer|Spot001|S
+    7400786: Spot001|Spot001.001|Spot001|Spot001|Take 001|BaseLayer|Spot001|Spot001|
+    7400788: Spot001|Spot001.Target.001|Spot001.Target|Camera001.Target|Take 001|Bas
+    7400790: Spot001|Spot001.Target.001|Spot001.Target|Camera001|Take 001|BaseLayer|
+    7400792: Spot001|Spot001.Target.001|Spot001.Target|City_building_001|Take 001|Ba
+    7400794: Spot001|Spot001.Target.001|Spot001.Target|City_building_004|Take 001|Ba
+    7400796: Spot001|Spot001.Target.001|Spot001.Target|City_building_007|Take 001|Ba
+    7400798: Spot001|Spot001.Target.001|Spot001.Target|City_building_008|Take 001|Ba
+    7400800: Spot001|Spot001.Target.001|Spot001.Target|City_building_010|Take 001|Ba
+    7400802: Spot001|Spot001.Target.001|Spot001.Target|City_building_011|Take 001|Ba
+    7400804: Spot001|Spot001.Target.001|Spot001.Target|City_building_013|Take 001|Ba
+    7400806: Spot001|Spot001.Target.001|Spot001.Target|City_building_014|Take 001|Ba
+    7400808: Spot001|Spot001.Target.001|Spot001.Target|City_building_016|Take 001|Ba
+    7400810: Spot001|Spot001.Target.001|Spot001.Target|City_building_017|Take 001|Ba
+    7400812: Spot001|Spot001.Target.001|Spot001.Target|City_building_022|Take 001|Ba
+    7400814: Spot001|Spot001.Target.001|Spot001.Target|City_building_023|Take 001|Ba
+    7400816: Spot001|Spot001.Target.001|Spot001.Target|City_building_024|Take 001|Ba
+    7400818: Spot001|Spot001.Target.001|Spot001.Target|City_building_026|Take 001|Ba
+    7400820: Spot001|Spot001.Target.001|Spot001.Target|City_building_028|Take 001|Ba
+    7400822: Spot001|Spot001.Target.001|Spot001.Target|City_building_030|Take 001|Ba
+    7400824: Spot001|Spot001.Target.001|Spot001.Target|City_building_031|Take 001|Ba
+    7400826: Spot001|Spot001.Target.001|Spot001.Target|City_building_032|Take 001|Ba
+    7400828: Spot001|Spot001.Target.001|Spot001.Target|City_building_033|Take 001|Ba
+    7400830: Spot001|Spot001.Target.001|Spot001.Target|City_building_034|Take 001|Ba
+    7400832: Spot001|Spot001.Target.001|Spot001.Target|City_building_035|Take 001|Ba
+    7400834: Spot001|Spot001.Target.001|Spot001.Target|City_building_036|Take 001|Ba
+    7400836: Spot001|Spot001.Target.001|Spot001.Target|City_building_037|Take 001|Ba
+    7400838: Spot001|Spot001.Target.001|Spot001.Target|City_building_038|Take 001|Ba
+    7400840: Spot001|Spot001.Target.001|Spot001.Target|City_building_039|Take 001|Ba
+    7400842: Spot001|Spot001.Target.001|Spot001.Target|City_building_040|Take 001|Ba
+    7400844: Spot001|Spot001.Target.001|Spot001.Target|City_building_041|Take 001|Ba
+    7400846: Spot001|Spot001.Target.001|Spot001.Target|Dummy001|Take 001|BaseLayer|S
+    7400848: Spot001|Spot001.Target.001|Spot001.Target|Line002|Take 001|BaseLayer|Sp
+    7400850: Spot001|Spot001.Target.001|Spot001.Target|Object010|Take 001|BaseLayer|
+    7400852: Spot001|Spot001.Target.001|Spot001.Target|Plane001|Take 001|BaseLayer|S
+    7400854: Spot001|Spot001.Target.001|Spot001.Target|Sky001|Take 001|BaseLayer|Spo
+    7400856: Spot001|Spot001.Target.001|Spot001.Target|Spot001.Target|Take 001|BaseL
+    7400858: Spot001|Spot001.Target.001|Spot001.Target|Spot001|Take 001|BaseLayer|Sp
+    7400860: Spot001|Spot001.Target|Take 001|BaseLayer
+    7400862: Spot001|Spot001|Take 001|BaseLayer
+    7400864: Spot001.Target|Camera001.Target|Take 001|BaseLayer
+    7400866: Spot001.Target|Camera001|Take 001|BaseLayer
+    7400868: Spot001.Target|City_building_001|Take 001|BaseLayer
+    7400870: Spot001.Target|City_building_004|Take 001|BaseLayer
+    7400872: Spot001.Target|City_building_007|Take 001|BaseLayer
+    7400874: Spot001.Target|City_building_008|Take 001|BaseLayer
+    7400876: Spot001.Target|City_building_010|Take 001|BaseLayer
+    7400878: Spot001.Target|City_building_011|Take 001|BaseLayer
+    7400880: Spot001.Target|City_building_013|Take 001|BaseLayer
+    7400882: Spot001.Target|City_building_014|Take 001|BaseLayer
+    7400884: Spot001.Target|City_building_016|Take 001|BaseLayer
+    7400886: Spot001.Target|City_building_017|Take 001|BaseLayer
+    7400888: Spot001.Target|City_building_022|Take 001|BaseLayer
+    7400890: Spot001.Target|City_building_023|Take 001|BaseLayer
+    7400892: Spot001.Target|City_building_024|Take 001|BaseLayer
+    7400894: Spot001.Target|City_building_026|Take 001|BaseLayer
+    7400896: Spot001.Target|City_building_028|Take 001|BaseLayer
+    7400898: Spot001.Target|City_building_030|Take 001|BaseLayer
+    7400900: Spot001.Target|City_building_031|Take 001|BaseLayer
+    7400902: Spot001.Target|City_building_032|Take 001|BaseLayer
+    7400904: Spot001.Target|City_building_033|Take 001|BaseLayer
+    7400906: Spot001.Target|City_building_034|Take 001|BaseLayer
+    7400908: Spot001.Target|City_building_035|Take 001|BaseLayer
+    7400910: Spot001.Target|City_building_036|Take 001|BaseLayer
+    7400912: Spot001.Target|City_building_037|Take 001|BaseLayer
+    7400914: Spot001.Target|City_building_038|Take 001|BaseLayer
+    7400916: Spot001.Target|City_building_039|Take 001|BaseLayer
+    7400918: Spot001.Target|City_building_040|Take 001|BaseLayer
+    7400920: Spot001.Target|City_building_041|Take 001|BaseLayer
+    7400922: Spot001.Target|Dummy001|Take 001|BaseLayer
+    7400924: Spot001.Target|Line002.001|Line002|Camera001.Target|Take 001|BaseLayer|Line002
+    7400926: Spot001.Target|Line002.001|Line002|Camera001|Take 001|BaseLayer|Line002|Camera
+    7400928: Spot001.Target|Line002.001|Line002|City_building_001|Take 001|BaseLayer|Line00
+    7400930: Spot001.Target|Line002.001|Line002|City_building_004|Take 001|BaseLayer|Line00
+    7400932: Spot001.Target|Line002.001|Line002|City_building_007|Take 001|BaseLayer|Line00
+    7400934: Spot001.Target|Line002.001|Line002|City_building_008|Take 001|BaseLayer|Line00
+    7400936: Spot001.Target|Line002.001|Line002|City_building_010|Take 001|BaseLayer|Line00
+    7400938: Spot001.Target|Line002.001|Line002|City_building_011|Take 001|BaseLayer|Line00
+    7400940: Spot001.Target|Line002.001|Line002|City_building_013|Take 001|BaseLayer|Line00
+    7400942: Spot001.Target|Line002.001|Line002|City_building_014|Take 001|BaseLayer|Line00
+    7400944: Spot001.Target|Line002.001|Line002|City_building_016|Take 001|BaseLayer|Line00
+    7400946: Spot001.Target|Line002.001|Line002|City_building_017|Take 001|BaseLayer|Line00
+    7400948: Spot001.Target|Line002.001|Line002|City_building_022|Take 001|BaseLayer|Line00
+    7400950: Spot001.Target|Line002.001|Line002|City_building_023|Take 001|BaseLayer|Line00
+    7400952: Spot001.Target|Line002.001|Line002|City_building_024|Take 001|BaseLayer|Line00
+    7400954: Spot001.Target|Line002.001|Line002|City_building_026|Take 001|BaseLayer|Line00
+    7400956: Spot001.Target|Line002.001|Line002|City_building_028|Take 001|BaseLayer|Line00
+    7400958: Spot001.Target|Line002.001|Line002|City_building_030|Take 001|BaseLayer|Line00
+    7400960: Spot001.Target|Line002.001|Line002|City_building_031|Take 001|BaseLayer|Line00
+    7400962: Spot001.Target|Line002.001|Line002|City_building_032|Take 001|BaseLayer|Line00
+    7400964: Spot001.Target|Line002.001|Line002|City_building_033|Take 001|BaseLayer|Line00
+    7400966: Spot001.Target|Line002.001|Line002|City_building_034|Take 001|BaseLayer|Line00
+    7400968: Spot001.Target|Line002.001|Line002|City_building_035|Take 001|BaseLayer|Line00
+    7400970: Spot001.Target|Line002.001|Line002|City_building_036|Take 001|BaseLayer|Line00
+    7400972: Spot001.Target|Line002.001|Line002|City_building_037|Take 001|BaseLayer|Line00
+    7400974: Spot001.Target|Line002.001|Line002|City_building_038|Take 001|BaseLayer|Line00
+    7400976: Spot001.Target|Line002.001|Line002|City_building_039|Take 001|BaseLayer|Line00
+    7400978: Spot001.Target|Line002.001|Line002|City_building_040|Take 001|BaseLayer|Line00
+    7400980: Spot001.Target|Line002.001|Line002|City_building_041|Take 001|BaseLayer|Line00
+    7400982: Spot001.Target|Line002.001|Line002|Dummy001|Take 001|BaseLayer|Line002|Dummy00
+    7400984: Spot001.Target|Line002.001|Line002|Line002|Take 001|BaseLayer|Line002|Line002|
+    7400986: Spot001.Target|Line002.001|Line002|Object010|Take 001|BaseLayer|Line002|Object
+    7400988: Spot001.Target|Line002.001|Line002|Plane001|Take 001|BaseLayer|Line002|Plane00
+    7400990: Spot001.Target|Line002.001|Line002|Sky001|Take 001|BaseLayer|Line002|Sky001|Ta
+    7400992: Spot001.Target|Line002.001|Line002|Spot001.Target|Take 001|BaseLayer|Line002|S
+    7400994: Spot001.Target|Line002.001|Line002|Spot001|Take 001|BaseLayer|Line002|Spot001|
+    7400996: Spot001.Target|Line002|Take 001|BaseLayer
+    7400998: Spot001.Target|Object010.001|Object010|Camera001.Target|Take 001|BaseLayer|Obj
+    7401000: Spot001.Target|Object010.001|Object010|Camera001|Take 001|BaseLayer|Object010|
+    7401002: Spot001.Target|Object010.001|Object010|City_building_001|Take 001|BaseLayer|Ob
+    7401004: Spot001.Target|Object010.001|Object010|City_building_004|Take 001|BaseLayer|Ob
+    7401006: Spot001.Target|Object010.001|Object010|City_building_007|Take 001|BaseLayer|Ob
+    7401008: Spot001.Target|Object010.001|Object010|City_building_008|Take 001|BaseLayer|Ob
+    7401010: Spot001.Target|Object010.001|Object010|City_building_010|Take 001|BaseLayer|Ob
+    7401012: Spot001.Target|Object010.001|Object010|City_building_011|Take 001|BaseLayer|Ob
+    7401014: Spot001.Target|Object010.001|Object010|City_building_013|Take 001|BaseLayer|Ob
+    7401016: Spot001.Target|Object010.001|Object010|City_building_014|Take 001|BaseLayer|Ob
+    7401018: Spot001.Target|Object010.001|Object010|City_building_016|Take 001|BaseLayer|Ob
+    7401020: Spot001.Target|Object010.001|Object010|City_building_017|Take 001|BaseLayer|Ob
+    7401022: Spot001.Target|Object010.001|Object010|City_building_022|Take 001|BaseLayer|Ob
+    7401024: Spot001.Target|Object010.001|Object010|City_building_023|Take 001|BaseLayer|Ob
+    7401026: Spot001.Target|Object010.001|Object010|City_building_024|Take 001|BaseLayer|Ob
+    7401028: Spot001.Target|Object010.001|Object010|City_building_026|Take 001|BaseLayer|Ob
+    7401030: Spot001.Target|Object010.001|Object010|City_building_028|Take 001|BaseLayer|Ob
+    7401032: Spot001.Target|Object010.001|Object010|City_building_030|Take 001|BaseLayer|Ob
+    7401034: Spot001.Target|Object010.001|Object010|City_building_031|Take 001|BaseLayer|Ob
+    7401036: Spot001.Target|Object010.001|Object010|City_building_032|Take 001|BaseLayer|Ob
+    7401038: Spot001.Target|Object010.001|Object010|City_building_033|Take 001|BaseLayer|Ob
+    7401040: Spot001.Target|Object010.001|Object010|City_building_034|Take 001|BaseLayer|Ob
+    7401042: Spot001.Target|Object010.001|Object010|City_building_035|Take 001|BaseLayer|Ob
+    7401044: Spot001.Target|Object010.001|Object010|City_building_036|Take 001|BaseLayer|Ob
+    7401046: Spot001.Target|Object010.001|Object010|City_building_037|Take 001|BaseLayer|Ob
+    7401048: Spot001.Target|Object010.001|Object010|City_building_038|Take 001|BaseLayer|Ob
+    7401050: Spot001.Target|Object010.001|Object010|City_building_039|Take 001|BaseLayer|Ob
+    7401052: Spot001.Target|Object010.001|Object010|City_building_040|Take 001|BaseLayer|Ob
+    7401054: Spot001.Target|Object010.001|Object010|City_building_041|Take 001|BaseLayer|Ob
+    7401056: Spot001.Target|Object010.001|Object010|Dummy001|Take 001|BaseLayer|Object010|D
+    7401058: Spot001.Target|Object010.001|Object010|Line002|Take 001|BaseLayer|Object010|Li
+    7401060: Spot001.Target|Object010.001|Object010|Object010|Take 001|BaseLayer|Object010|
+    7401062: Spot001.Target|Object010.001|Object010|Plane001|Take 001|BaseLayer|Object010|P
+    7401064: Spot001.Target|Object010.001|Object010|Sky001|Take 001|BaseLayer|Object010|Sky
+    7401066: Spot001.Target|Object010.001|Object010|Spot001.Target|Take 001|BaseLayer|Objec
+    7401068: Spot001.Target|Object010.001|Object010|Spot001|Take 001|BaseLayer|Object010|Sp
+    7401070: Spot001.Target|Object010|Take 001|BaseLayer
+    7401072: Spot001.Target|Plane001.001|Plane001|Camera001.Target|Take 001|BaseLayer|Plane
+    7401074: Spot001.Target|Plane001.001|Plane001|Camera001|Take 001|BaseLayer|Plane001|Cam
+    7401076: Spot001.Target|Plane001.001|Plane001|City_building_001|Take 001|BaseLayer|Plan
+    7401078: Spot001.Target|Plane001.001|Plane001|City_building_004|Take 001|BaseLayer|Plan
+    7401080: Spot001.Target|Plane001.001|Plane001|City_building_007|Take 001|BaseLayer|Plan
+    7401082: Spot001.Target|Plane001.001|Plane001|City_building_008|Take 001|BaseLayer|Plan
+    7401084: Spot001.Target|Plane001.001|Plane001|City_building_010|Take 001|BaseLayer|Plan
+    7401086: Spot001.Target|Plane001.001|Plane001|City_building_011|Take 001|BaseLayer|Plan
+    7401088: Spot001.Target|Plane001.001|Plane001|City_building_013|Take 001|BaseLayer|Plan
+    7401090: Spot001.Target|Plane001.001|Plane001|City_building_014|Take 001|BaseLayer|Plan
+    7401092: Spot001.Target|Plane001.001|Plane001|City_building_016|Take 001|BaseLayer|Plan
+    7401094: Spot001.Target|Plane001.001|Plane001|City_building_017|Take 001|BaseLayer|Plan
+    7401096: Spot001.Target|Plane001.001|Plane001|City_building_022|Take 001|BaseLayer|Plan
+    7401098: Spot001.Target|Plane001.001|Plane001|City_building_023|Take 001|BaseLayer|Plan
+    7401100: Spot001.Target|Plane001.001|Plane001|City_building_024|Take 001|BaseLayer|Plan
+    7401102: Spot001.Target|Plane001.001|Plane001|City_building_026|Take 001|BaseLayer|Plan
+    7401104: Spot001.Target|Plane001.001|Plane001|City_building_028|Take 001|BaseLayer|Plan
+    7401106: Spot001.Target|Plane001.001|Plane001|City_building_030|Take 001|BaseLayer|Plan
+    7401108: Spot001.Target|Plane001.001|Plane001|City_building_031|Take 001|BaseLayer|Plan
+    7401110: Spot001.Target|Plane001.001|Plane001|City_building_032|Take 001|BaseLayer|Plan
+    7401112: Spot001.Target|Plane001.001|Plane001|City_building_033|Take 001|BaseLayer|Plan
+    7401114: Spot001.Target|Plane001.001|Plane001|City_building_034|Take 001|BaseLayer|Plan
+    7401116: Spot001.Target|Plane001.001|Plane001|City_building_035|Take 001|BaseLayer|Plan
+    7401118: Spot001.Target|Plane001.001|Plane001|City_building_036|Take 001|BaseLayer|Plan
+    7401120: Spot001.Target|Plane001.001|Plane001|City_building_037|Take 001|BaseLayer|Plan
+    7401122: Spot001.Target|Plane001.001|Plane001|City_building_038|Take 001|BaseLayer|Plan
+    7401124: Spot001.Target|Plane001.001|Plane001|City_building_039|Take 001|BaseLayer|Plan
+    7401126: Spot001.Target|Plane001.001|Plane001|City_building_040|Take 001|BaseLayer|Plan
+    7401128: Spot001.Target|Plane001.001|Plane001|City_building_041|Take 001|BaseLayer|Plan
+    7401130: Spot001.Target|Plane001.001|Plane001|Dummy001|Take 001|BaseLayer|Plane001|Dumm
+    7401132: Spot001.Target|Plane001.001|Plane001|Line002|Take 001|BaseLayer|Plane001|Line0
+    7401134: Spot001.Target|Plane001.001|Plane001|Object010|Take 001|BaseLayer|Plane001|Obj
+    7401136: Spot001.Target|Plane001.001|Plane001|Plane001|Take 001|BaseLayer|Plane001|Plan
+    7401138: Spot001.Target|Plane001.001|Plane001|Sky001|Take 001|BaseLayer|Plane001|Sky001
+    7401140: Spot001.Target|Plane001.001|Plane001|Spot001.Target|Take 001|BaseLayer|Plane00
+    7401142: Spot001.Target|Plane001.001|Plane001|Spot001|Take 001|BaseLayer|Plane001|Spot0
+    7401144: Spot001.Target|Plane001|Take 001|BaseLayer
+    7401146: Spot001.Target|Sky001|Take 001|BaseLayer
+    7401148: Spot001.Target|Spot001.001|Spot001|Camera001.Target|Take 001|BaseLayer|Spot001
+    7401150: Spot001.Target|Spot001.001|Spot001|Camera001|Take 001|BaseLayer|Spot001|Camera
+    7401152: Spot001.Target|Spot001.001|Spot001|City_building_001|Take 001|BaseLayer|Spot00
+    7401154: Spot001.Target|Spot001.001|Spot001|City_building_004|Take 001|BaseLayer|Spot00
+    7401156: Spot001.Target|Spot001.001|Spot001|City_building_007|Take 001|BaseLayer|Spot00
+    7401158: Spot001.Target|Spot001.001|Spot001|City_building_008|Take 001|BaseLayer|Spot00
+    7401160: Spot001.Target|Spot001.001|Spot001|City_building_010|Take 001|BaseLayer|Spot00
+    7401162: Spot001.Target|Spot001.001|Spot001|City_building_011|Take 001|BaseLayer|Spot00
+    7401164: Spot001.Target|Spot001.001|Spot001|City_building_013|Take 001|BaseLayer|Spot00
+    7401166: Spot001.Target|Spot001.001|Spot001|City_building_014|Take 001|BaseLayer|Spot00
+    7401168: Spot001.Target|Spot001.001|Spot001|City_building_016|Take 001|BaseLayer|Spot00
+    7401170: Spot001.Target|Spot001.001|Spot001|City_building_017|Take 001|BaseLayer|Spot00
+    7401172: Spot001.Target|Spot001.001|Spot001|City_building_022|Take 001|BaseLayer|Spot00
+    7401174: Spot001.Target|Spot001.001|Spot001|City_building_023|Take 001|BaseLayer|Spot00
+    7401176: Spot001.Target|Spot001.001|Spot001|City_building_024|Take 001|BaseLayer|Spot00
+    7401178: Spot001.Target|Spot001.001|Spot001|City_building_026|Take 001|BaseLayer|Spot00
+    7401180: Spot001.Target|Spot001.001|Spot001|City_building_028|Take 001|BaseLayer|Spot00
+    7401182: Spot001.Target|Spot001.001|Spot001|City_building_030|Take 001|BaseLayer|Spot00
+    7401184: Spot001.Target|Spot001.001|Spot001|City_building_031|Take 001|BaseLayer|Spot00
+    7401186: Spot001.Target|Spot001.001|Spot001|City_building_032|Take 001|BaseLayer|Spot00
+    7401188: Spot001.Target|Spot001.001|Spot001|City_building_033|Take 001|BaseLayer|Spot00
+    7401190: Spot001.Target|Spot001.001|Spot001|City_building_034|Take 001|BaseLayer|Spot00
+    7401192: Spot001.Target|Spot001.001|Spot001|City_building_035|Take 001|BaseLayer|Spot00
+    7401194: Spot001.Target|Spot001.001|Spot001|City_building_036|Take 001|BaseLayer|Spot00
+    7401196: Spot001.Target|Spot001.001|Spot001|City_building_037|Take 001|BaseLayer|Spot00
+    7401198: Spot001.Target|Spot001.001|Spot001|City_building_038|Take 001|BaseLayer|Spot00
+    7401200: Spot001.Target|Spot001.001|Spot001|City_building_039|Take 001|BaseLayer|Spot00
+    7401202: Spot001.Target|Spot001.001|Spot001|City_building_040|Take 001|BaseLayer|Spot00
+    7401204: Spot001.Target|Spot001.001|Spot001|City_building_041|Take 001|BaseLayer|Spot00
+    7401206: Spot001.Target|Spot001.001|Spot001|Dummy001|Take 001|BaseLayer|Spot001|Dummy00
+    7401208: Spot001.Target|Spot001.001|Spot001|Line002|Take 001|BaseLayer|Spot001|Line002|
+    7401210: Spot001.Target|Spot001.001|Spot001|Object010|Take 001|BaseLayer|Spot001|Object
+    7401212: Spot001.Target|Spot001.001|Spot001|Plane001|Take 001|BaseLayer|Spot001|Plane00
+    7401214: Spot001.Target|Spot001.001|Spot001|Sky001|Take 001|BaseLayer|Spot001|Sky001|Ta
+    7401216: Spot001.Target|Spot001.001|Spot001|Spot001.Target|Take 001|BaseLayer|Spot001|S
+    7401218: Spot001.Target|Spot001.001|Spot001|Spot001|Take 001|BaseLayer|Spot001|Spot001|
+    7401220: Spot001.Target|Spot001.Target.001|Spot001.Target|Camera001.Target|Take
+      001|Bas
+    7401222: Spot001.Target|Spot001.Target.001|Spot001.Target|Camera001|Take 001|BaseLayer|
+    7401224: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_001|Take
+      001|Ba
+    7401226: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_004|Take
+      001|Ba
+    7401228: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_007|Take
+      001|Ba
+    7401230: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_008|Take
+      001|Ba
+    7401232: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_010|Take
+      001|Ba
+    7401234: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_011|Take
+      001|Ba
+    7401236: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_013|Take
+      001|Ba
+    7401238: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_014|Take
+      001|Ba
+    7401240: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_016|Take
+      001|Ba
+    7401242: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_017|Take
+      001|Ba
+    7401244: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_022|Take
+      001|Ba
+    7401246: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_023|Take
+      001|Ba
+    7401248: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_024|Take
+      001|Ba
+    7401250: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_026|Take
+      001|Ba
+    7401252: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_028|Take
+      001|Ba
+    7401254: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_030|Take
+      001|Ba
+    7401256: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_031|Take
+      001|Ba
+    7401258: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_032|Take
+      001|Ba
+    7401260: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_033|Take
+      001|Ba
+    7401262: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_034|Take
+      001|Ba
+    7401264: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_035|Take
+      001|Ba
+    7401266: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_036|Take
+      001|Ba
+    7401268: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_037|Take
+      001|Ba
+    7401270: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_038|Take
+      001|Ba
+    7401272: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_039|Take
+      001|Ba
+    7401274: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_040|Take
+      001|Ba
+    7401276: Spot001.Target|Spot001.Target.001|Spot001.Target|City_building_041|Take
+      001|Ba
+    7401278: Spot001.Target|Spot001.Target.001|Spot001.Target|Dummy001|Take 001|BaseLayer|S
+    7401280: Spot001.Target|Spot001.Target.001|Spot001.Target|Line002|Take 001|BaseLayer|Sp
+    7401282: Spot001.Target|Spot001.Target.001|Spot001.Target|Object010|Take 001|BaseLayer|
+    7401284: Spot001.Target|Spot001.Target.001|Spot001.Target|Plane001|Take 001|BaseLayer|S
+    7401286: Spot001.Target|Spot001.Target.001|Spot001.Target|Sky001|Take 001|BaseLayer|Spo
+    7401288: Spot001.Target|Spot001.Target.001|Spot001.Target|Spot001.Target|Take
+      001|BaseL
+    7401290: Spot001.Target|Spot001.Target.001|Spot001.Target|Spot001|Take 001|BaseLayer|Sp
+    7401292: Spot001.Target|Spot001.Target|Take 001|BaseLayer
+    7401294: Spot001.Target|Spot001|Take 001|BaseLayer
+    9500000: //RootNode
+    10800000: Spot001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
